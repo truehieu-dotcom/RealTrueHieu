@@ -1,0 +1,5 @@
+"dependencies": {
+  "lucide-react": "^0.400.0", 
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0"
+}
