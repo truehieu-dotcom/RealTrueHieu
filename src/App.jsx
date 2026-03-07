@@ -70,7 +70,7 @@ const App = () => {
         {/* Banner GIF */}
         <div className="h-32 w-full relative overflow-hidden">
           <img 
-            src="https://media1.tenor.com/m/A6qADxOkvkoAAAAC/venti-genshin.gif" 
+            src="https://raw.githubusercontent.com/truehieu-dotcom/RealTrueHieu/refs/heads/main/IMG_1451.gif" 
             alt="Venti Banner" 
             className="w-full h-full object-cover object-center"
           />
