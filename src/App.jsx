@@ -89,7 +89,7 @@ const App = () => {
               {/* Avatar mới nhất theo yêu cầu của đại ca */}
               <div className="w-28 h-28 rounded-full border-[6px] border-[#111214] overflow-hidden bg-[#111214] shadow-2xl transition-transform hover:scale-105 duration-300 snow-glow">
                 <img 
-                  src="https://cdn.discordapp.com/attachments/1338868763415547905/1479151967203889162/35ab948d68a0fda9c089af34c6ec3b05.png?ex=69aaff1e&is=69a9ad9e&hm=09142e48f87e983c71b168c50a5dfc0976aee4ecce3e0abfebad3ec09eac84df&" 
+                  src="https://raw.githubusercontent.com/truehieu-dotcom/RealTrueHieu/dfe6554af7840c58f7c534828ff2f3812948ee12/35ab948d68a0fda9c089af34c6ec3b05.webp" 
                   alt="TrueHieu Avatar" 
                   className="w-full h-full object-cover"
                 />
